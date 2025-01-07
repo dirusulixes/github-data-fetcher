@@ -1,0 +1,56 @@
+[
+    {
+        "commit_sha": "1580a3554192796eca987ae33e3a0c5a4c20bd77",
+        "comment_body": "nit: On the first read of comment, I felt we are setting it for only first request. But DeltaDiscoveryRequest has this field populated only on first request on reconnection.",
+        "author": "ramaraochavali",
+        "created_at": "2022-10-19T04:20:29Z"
+    },
+    {
+        "commit_sha": "43e3ec83e64ab913611e75072de85616b2251637",
+        "comment_body": "\u4e0d\u662f \u4f60\u6401\u8fd9\u5237kpi\u5462",
+        "author": "CoffeeHi",
+        "created_at": "2022-10-12T05:49:27Z"
+    },
+    {
+        "commit_sha": "43e3ec83e64ab913611e75072de85616b2251637",
+        "comment_body": "be nice to newbie",
+        "author": "zirain",
+        "created_at": "2022-10-12T07:13:51Z"
+    },
+    {
+        "commit_sha": "6bbb8519b98a578cbbed657916417b7a440962db",
+        "comment_body": "nit: prefer to use a ticker or time.after so we can get cancelled by the context. ",
+        "author": "howardjohn",
+        "created_at": "2022-07-08T01:17:09Z"
+    },
+    {
+        "commit_sha": "2b150935e7e32d18b8ae2401e92db874346a7ed8",
+        "comment_body": "Unfortunately, -executable is not on the MacOS find. `find . -type f \\( -perm -u=x -o -perm -g=x -o -perm -o=x \\) -exec test -x {} \\; -print` seems like it works. Only use this on `darwin`? Not sure of the best negation of this since we probably don't want to run `test` on all of those marked none executable.\r\n",
+        "author": "ericvn",
+        "created_at": "2022-03-23T20:05:17Z"
+    },
+    {
+        "commit_sha": "ea27bb5ee603d3358609de5e4966250eb8af7bf1",
+        "comment_body": "@yrobla :\r\nfirstly: thanks for this change !\r\nHowever, affinity and toleration are not defined in values.yaml ( https://github.com/istio/istio/blob/master/manifests/charts/istio-control/istio-discovery/values.yaml ), so they can't be used yet\r\n=> would you be able to add them there as well ?\r\n(let me know if you need a new issue for this )\r\n\r\nThanks again",
+        "author": "jgournet",
+        "created_at": "2022-03-01T01:01:24Z"
+    },
+    {
+        "commit_sha": "5f89eb3e628eb6469e9bd077d446be29b1ed5930",
+        "comment_body": "The [crash](https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=43889#c3) was discovered by [OSS-Fuzz](https://github.com/google/oss-fuzz/tree/master/projects) with the new [Code Intelligence](https://www.code-intelligence.com/) go instrumentation feature. We see a risk for a denial of service by the vulnerability in multiple target applications that are using itsio version < **1.11.6**/**1.12.3**/**1.13.0**. We would like to assign a CVE for this, if you haven't already assigned one. @howardjohn did you already publish a security advisory or assign a CVE for the vulnerability?",
+        "author": "0roman",
+        "created_at": "2022-02-16T12:57:25Z"
+    },
+    {
+        "commit_sha": "5f89eb3e628eb6469e9bd077d446be29b1ed5930",
+        "comment_body": "Please follow SECURITY.md in the repo and responsibly discuss this in private. ",
+        "author": "howardjohn",
+        "created_at": "2022-02-16T14:31:17Z"
+    },
+    {
+        "commit_sha": "5f89eb3e628eb6469e9bd077d446be29b1ed5930",
+        "comment_body": "@howardjohn this bug has been fixed and it has been opened to the public already, but we can discuss this in private.",
+        "author": "0roman",
+        "created_at": "2022-02-16T14:52:13Z"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "file": "CODEOWNERS",
+        "commit_sha": "a00064990327e1b989333f0d50c33a4f939ccc47",
+        "commit_message": "Make top level pkg/ default to T&R (#40804)\n\nThis avoids all of the smaller helper libraries we have been adding\nlately requiring top level owner approval. Most of these are generic\nutils that seem reasonable to be under T&R. For anything not, they\nshould be explicily catagorized anyways - not top level.",
+        "author": "John Howard",
+        "timestamp": "2022-09-06T03:59:30Z",
+        "url": "https://github.com/istio/istio/commit/a00064990327e1b989333f0d50c33a4f939ccc47"
+    },
+    {
+        "file": "CODEOWNERS",
+        "commit_sha": "ae3491fc647e69326b28f8c7edb3927e467216bc",
+        "commit_message": "Replace nmittler with stevenctl for `*` OWNER (#40748)",
+        "author": "John Howard",
+        "timestamp": "2022-08-31T21:21:39Z",
+        "url": "https://github.com/istio/istio/commit/ae3491fc647e69326b28f8c7edb3927e467216bc"
+    },
+    {
+        "file": "CODEOWNERS",
+        "commit_sha": "1bf17b4d3642b080a1be3d04b1e64e5bbdb347a2",
+        "commit_message": "Update ownership of samples directory (#40736)",
+        "author": "Frank Budinsky",
+        "timestamp": "2022-08-31T15:35:39Z",
+        "url": "https://github.com/istio/istio/commit/1bf17b4d3642b080a1be3d04b1e64e5bbdb347a2"
+    },
+    {
+        "file": "CODEOWNERS",
+        "commit_sha": "ab1085a29669b4ccfaf72a50173f1f963bc45d2f",
+        "commit_message": "fuzz: attempt to fix build by working around fuzzing limitation (#40203)\n\n* fuzz: attempt to fix build by working around fuzzing limitation\n\n* Also add to owners",
+        "author": "John Howard",
+        "timestamp": "2022-08-01T15:47:34Z",
+        "url": "https://github.com/istio/istio/commit/ab1085a29669b4ccfaf72a50173f1f963bc45d2f"
+    },
+    {
+        "file": "CODEOWNERS",
+        "commit_sha": "b45a7281523086d47b7db84615e0515a533a10a1",
+        "commit_message": "Add myself (#39101)",
+        "author": "Zhonghu Xu",
+        "timestamp": "2022-05-25T00:22:40Z",
+        "url": "https://github.com/istio/istio/commit/b45a7281523086d47b7db84615e0515a533a10a1"
+    },
+    {
+        "file": "CODEOWNERS",
+        "commit_sha": "a7236baf4326d10cf35d50995f5df6908ee5d002",
+        "commit_message": "Update CODEOWNERS (#38086)\n\nWhy, indentation, why?",
+        "author": "craigbox",
+        "timestamp": "2022-03-23T13:10:37Z",
+        "url": "https://github.com/istio/istio/commit/a7236baf4326d10cf35d50995f5df6908ee5d002"
+    },
+    {
+        "file": "README.md",
+        "commit_sha": "1559e0e58ac6a5cc4238bd5ca39ec9070013f0ff",
+        "commit_message": "Update openssf badge (#38189)\n\n* Update openssf badge\n\nShriram set up a CII badge in 2017, so I thought it was about time to update it.\n\n* Update README.md",
+        "author": "craigbox",
+        "timestamp": "2022-03-31T13:12:08Z",
+        "url": "https://github.com/istio/istio/commit/1559e0e58ac6a5cc4238bd5ca39ec9070013f0ff"
+    }
+]
