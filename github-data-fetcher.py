@@ -38,6 +38,9 @@ def fetch_github_data(url, params=None, retries=3, backoff_factor=0.3):
             response.raise_for_status()
             return response.json()
         except HTTPError as http_err:
+            print(f"HTTP error occurred: {http_err}")
+            print(f"Response status code: {response.status_code}")
+            print(f"Response content: {response.content}")
             if response.status_code == 504 and attempt < retries - 1:
                 sleep_time = backoff_factor * (2 ** attempt)
                 time.sleep(sleep_time)
