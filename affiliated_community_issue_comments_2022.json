@@ -1,0 +1,1685 @@
+[
+    {
+        "issue_number": 1472,
+        "comment_body": "Hmm I think both links work for me",
+        "author": "keithmattix",
+        "created_at": "2024-09-30T19:00:41Z",
+        "affiliation": "Shipt"
+    },
+    {
+        "issue_number": 1472,
+        "comment_body": "@jaellio what error are you getting? it works for me",
+        "author": "kfaseela",
+        "created_at": "2024-10-02T10:38:08Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1472,
+        "comment_body": "I've tested them too, so hopefully it was just a transient error.  Jackie, if you get further errors, please re-open.",
+        "author": "craigbox",
+        "created_at": "2024-10-18T03:11:27Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1435,
+        "comment_body": "https://github.com/istio/istio/issues/51982 dupe",
+        "author": "howardjohn",
+        "created_at": "2024-07-10T10:30:43Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "File an pr to update your id",
+        "author": "hzxuzhonghu",
+        "created_at": "2024-07-10T03:00:17Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "@hzxuzhonghu I think I should just stick to the old username. I'm reverting my username to @krapie",
+        "author": "krapie",
+        "created_at": "2024-07-10T11:20:42Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "what do you mean, i can see you are in https://github.com/istio/community/blob/master/org/members.yaml#L248",
+        "author": "hzxuzhonghu",
+        "created_at": "2024-07-11T03:57:19Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "Need to resend the invitation? @linsun @kfaseela ",
+        "author": "hzxuzhonghu",
+        "created_at": "2024-07-11T03:58:17Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "@hzxuzhonghu Oh I'm just not changing my username and keep using the old username, so I don't need to change the file. I think I just need to get invitation from the Istio Automation.",
+        "author": "krapie",
+        "created_at": "2024-07-11T05:02:02Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "Let me check how to do this, worst case the user can remove and re-add themselves . ",
+        "author": "kfaseela",
+        "created_at": "2024-07-11T06:30:32Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "But what happened to the previous invite you received when you added yourselves? You told you are retaining your id and not changing? The title is a bit confusing",
+        "author": "kfaseela",
+        "created_at": "2024-07-11T06:31:35Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "@kfaseela Well the title is now outdated since I returned to my old username.\r\n\r\n> But what happened to the previous invite you received when you added yourselves?\r\n\r\n@istio-testing sent me invitation with 7-day expiration when I added myself with this PR: https://github.com/istio/community/pull/1027",
+        "author": "krapie",
+        "created_at": "2024-07-11T11:22:19Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "> @kfaseela Well the title is now outdated since I returned to my old username.\n> \n> > But what happened to the previous invite you received when you added yourselves?\n> \n> @istio-testing sent me invitation with 7-day expiration when I added myself with this PR: https://github.com/istio/community/pull/1027\n\nOk, but this issue has been raised with the other username itself? ",
+        "author": "kfaseela",
+        "created_at": "2024-07-11T11:34:23Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "@kfaseela Yes, when I changed my username to other username, I got removed from Istio organization. And I requested to renew my username in the file so that I can got re-invited, just like this issue: https://github.com/istio/community/issues/725",
+        "author": "krapie",
+        "created_at": "2024-07-11T11:38:24Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "> @kfaseela Yes, when I changed my username to other username, I got removed from Istio organization. And I requested to renew my username in the file so that I can got re-invited, just like this issue: https://github.com/istio/community/issues/725\n\n@craigbox will you be able to resend the invite? ",
+        "author": "kfaseela",
+        "created_at": "2024-07-11T11:43:38Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "No, I don't have any insight into the automation sorry.",
+        "author": "craigbox",
+        "created_at": "2024-07-11T19:35:35Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "> No, I don't have any insight into the automation sorry.\n\nEric has done for me in the past, let me check if I can find that out",
+        "author": "kfaseela",
+        "created_at": "2024-07-11T19:41:02Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "Thanks! I have received the invitation from @istio-testing ",
+        "author": "krapie",
+        "created_at": "2024-07-12T07:21:08Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "there's a failed [postjob](https://prow.istio.io/view/gs/istio-prow/logs/sync-org_community_postsubmit/1810794914951204864) when you changed your id.\r\n\r\nOnce you change you github name/id, you should send a request like [this](https://github.com/istio/community/pull/1438).",
+        "author": "zirain",
+        "created_at": "2024-07-12T07:25:16Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 1433,
+        "comment_body": "@zirain Thanks! I will close this issue.",
+        "author": "krapie",
+        "created_at": "2024-07-12T08:10:49Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1389,
+        "comment_body": "Hey @MorrisLaw can you submit this as a PR so folks can approve? Thanks!",
+        "author": "keithmattix",
+        "created_at": "2024-05-01T19:12:10Z",
+        "affiliation": "Shipt"
+    },
+    {
+        "issue_number": 1320,
+        "comment_body": "We remain limited by the events that are emitted from the GitHub API, which unfortunately do not include any relating to discussions.\r\n\r\nWe would have to do some sort of search or export of the discussions to be able to include them, and as with everything, apply some discretion: a thread answered immediately and authoritatively is \"worth more\" than a thread with 20 different back-and-forth messages and no resolution.\r\n\r\nI'm going to close this as \"not feasible\" at this point, and we can include this thinking in the steering formula calculation we are now obliged to do.",
+        "author": "craigbox",
+        "created_at": "2024-04-06T04:04:12Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "cc @istio/wg-networking-maintainers for comment",
+        "author": "linsun",
+        "created_at": "2024-01-29T18:04:35Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "We have a standard process for maintainership: https://github.com/istio/community/blob/master/ROLES.md#requirements-3 which I don't think is currently met here. However, its great to see the interest here! If you are interested in progressing more as a maintainer feel free to reach out to me or others to help guide you along on how best to get from here to there",
+        "author": "howardjohn",
+        "created_at": "2024-01-29T18:13:02Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "Thanks John for your comments. That is fair, opening this for transparency and recording purpose. ",
+        "author": "linsun",
+        "created_at": "2024-01-29T18:15:40Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "tagging @istio/wg-networking-maintainers and leads to comment @stevenctl @ramaraochavali @lizan ",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:43:33Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "I did a quick calculation yesterday myself, I think @PlatformLC has around 15 merged PRs. This confirms John's comment earlier. Leaving this open for others to comment on it.",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:45:28Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "+1 to wait for a bit more",
+        "author": "ramaraochavali",
+        "created_at": "2024-01-30T14:49:48Z",
+        "affiliation": "Salesforce.com Inc."
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "If we have consensus for having a sub istio-cni group, I will vote for @PlatformLC to be part of the maintainer of this subgroup.  As @PlatformLC has strong experience in this component and the big ebpf redireciton PR is a big plus for this.  Besides his other contributions to ztunnel is also related with area. \r\n\r\nFor the broad networking maintainer, I agree to wait for a bit more. ",
+        "author": "irisdingbj",
+        "created_at": "2024-01-30T16:57:01Z",
+        "affiliation": "Intel Corporation"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "Added this to the agenda of tmr's WG meeting.",
+        "author": "linsun",
+        "created_at": "2024-01-30T18:53:37Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1316,
+        "comment_body": "Notes from today's WG meeting: @PlatformLC we appreciate your interest in serving as istio-cni maintainer, we would love to see more contributions from you on PRs and reviewing other's PRs before we can approve this. Hope to see you shine more in the community!",
+        "author": "linsun",
+        "created_at": "2024-01-31T18:27:54Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1315,
+        "comment_body": "cc @istio/wg-networking-maintainers for comment ",
+        "author": "linsun",
+        "created_at": "2024-01-29T18:04:28Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1315,
+        "comment_body": "Approved from my end",
+        "author": "nrjpoddar",
+        "created_at": "2024-01-29T20:46:29Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1315,
+        "comment_body": "tagging leads to comment @stevenctl @ramaraochavali @lizan @howardjohn ",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:44:02Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1315,
+        "comment_body": "I am fine adding @irisdingbj as cni maintainer",
+        "author": "ramaraochavali",
+        "created_at": "2024-01-30T14:50:40Z",
+        "affiliation": "Salesforce.com Inc."
+    },
+    {
+        "issue_number": 1315,
+        "comment_body": "Added this to the agenda of tmr's WG meeting.",
+        "author": "linsun",
+        "created_at": "2024-01-30T18:53:50Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1315,
+        "comment_body": "Notes from today's WG meeting: @irisdingbj  we appreciate your interest in serving as istio-cni maintainer and we recognized your substantial contribution to Istio, which is also reflected that you are currently maintainers in multiple groups of Istio. We would love to see more contributions from you on the networking area PRs and reviewing other's networking area PRs before we can approve this. Hope to see you shine more in the community!",
+        "author": "linsun",
+        "created_at": "2024-01-31T18:29:21Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "cc @istio/wg-networking-maintainers for comment",
+        "author": "linsun",
+        "created_at": "2024-01-29T18:04:17Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "FWIW I don't think we formally have an \"istio-cni maintainer\". It is owned by the networking group more broadly. That being said I think Ben probably meets the bar (https://github.com/istio/community/blob/master/ROLES.md#requirements-3) more broadly, or is at least extremely close to doing so ( didn't look very closely here)",
+        "author": "howardjohn",
+        "created_at": "2024-01-29T18:37:39Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "Thanks John for your input. Agree we don't have istio-cni maintainer formerly. Depends on folks' input and comfortable level, we can decide to create a dedicated group for istio-cni or have Ben join the networking maintainer group.\r\n\r\ntagging a few networking leads for input @ramaraochavali @stevenctl @lizan ",
+        "author": "linsun",
+        "created_at": "2024-01-29T19:42:58Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "I think adding a CNI maintainer is a good thing to have specially w/Ambient beta on the horizon. I'm in favor of it and adding @bleggett given other TOC members are good with it.",
+        "author": "nrjpoddar",
+        "created_at": "2024-01-29T20:01:03Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "Thanks Neeraj. Just checked, Ben has 32 merged PR which includes substantial PR(most recent one is the huge in-pod istio-cni PR) as well.  I'll let the other networking leads weigh in, if they are okay with adding Ben to networking maintainer group, we can add him there instead of forming the istio-cni maintainer.",
+        "author": "linsun",
+        "created_at": "2024-01-30T02:27:34Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "istio-cni is a little different, with more undelying networking expertise requirements. I think a sub-group is necessary.",
+        "author": "hzxuzhonghu",
+        "created_at": "2024-01-30T02:40:48Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "> istio-cni is a little different, with more undelying networking expertise requirements. I think a sub-group is necessary.\r\n\r\nlike @istio/wg-networking-maintainers-pilot ?",
+        "author": "zirain",
+        "created_at": "2024-01-30T03:13:55Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "Looking at PRs, most of them are in cni area. So it makes sense to create istio-cni and add him",
+        "author": "ramaraochavali",
+        "created_at": "2024-01-30T08:58:41Z",
+        "affiliation": "Salesforce.com Inc."
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "@ramaraochavali @hzxuzhonghu @zirain thank you for the feedback! Seems you all are good with moving forward to promote Ben as istio-cni maintainer.\r\n\r\n@stevenctl @lizan any feedback from you, please let me know by end of today.",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:16:35Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "To be clear, it's good to create an sub-group named istio/wg-networking-maintainers-cni, and grant authority(both istio/wg-networking-maintainers-cni and istio/wg-networking-maintainers) with `/cni` folder.\r\n\r\nsame to https://github.com/istio/community/issues/1315 and https://github.com/istio/community/issues/1316",
+        "author": "zirain",
+        "created_at": "2024-01-30T14:26:43Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "I'd like to do a vote from networking maintainers and leads.  Leads' vote count, maintainers vote are helpful too\r\n\r\noption 1: create dedicated group for istio-cni and promote Ben to istio-cni maintainer\r\noption 2: promote Ben to wg-networking-maintainers.\r\n\r\nPlease use emojis (option 1 heart, option 2: rocket)",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:31:23Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "cc @istio/wg-networking-maintainers @howardjohn @stevenctl @lizan @ramaraochavali ^^^^ ",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:32:02Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "> To be clear, it's good to create an sub-group named istio/wg-networking-maintainers-cni, and grant authority(both istio/wg-networking-maintainers-cni and istio/wg-networking-maintainers) with `/cni` folder.\r\n> \r\n> same to #1315 and #1316\r\n\r\nLet us separate #1315 and #1316 into their own github discussions as nomination/voting is personal.",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:33:01Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "Subgroups have maintainer access to the parent group too.. so if the goal is to block someones access to \"networking\", subgroup would not work.\r\n\r\nIMO fewer groups is easier to maintain and grok. A networking maintainer doesn't need to be an expert on all things \"networking\" in Istio -- and I don't any current maintainers are given the breadth of Istio. Part of the responsibilities of a maintainer is not just to approve PRs, but also know when _not_ to approve PRs. For example, if a Maintainer was a CNI pro but had no other expertise (which is not the case for Ben, IMO, just an example), I would simply expect them to not approve PRs outside of CNI.\r\n\r\nNote the \"pilot\" subgroup is a bit different scenario. That was about making a higher bar for a critical code portion. This CNI group discussion is more like a side-group, not sub-group. Generally our groups are all bucketed under WGs, though, which makes the not possible in GitHub. As noted above though, I don't think we need to anyways.",
+        "author": "howardjohn",
+        "created_at": "2024-01-30T15:48:40Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "+1 to John's comment.\r\nAlso big +1 to making @bleggett a maintainer ",
+        "author": "stevenctl",
+        "created_at": "2024-01-30T16:45:07Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "@stevenctl thanks, can you vote on here with your desired emoji?  https://github.com/istio/community/issues/1314#issuecomment-1917002184",
+        "author": "linsun",
+        "created_at": "2024-01-30T16:57:40Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "Added this to the agenda of tmr's WG meeting, please vote here - https://github.com/istio/community/issues/1314#issuecomment-1917002184",
+        "author": "linsun",
+        "created_at": "2024-01-30T18:53:14Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "+1 for @bleggett  as maintainer!",
+        "author": "srampal",
+        "created_at": "2024-01-31T17:47:25Z",
+        "affiliation": "Red Hat Inc."
+    },
+    {
+        "issue_number": 1314,
+        "comment_body": "Notes from today's WG meeting: @bleggett is approved as networking WG maintainers, there is no objection recorded in the meeting. I'll submit a PR shortly.",
+        "author": "linsun",
+        "created_at": "2024-01-31T18:26:17Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1311,
+        "comment_body": "The video is recorded and I understand that all the project updates will be shared by the CNCF next week.",
+        "author": "craigbox",
+        "created_at": "2024-03-06T03:20:27Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1311,
+        "comment_body": "Assuming that it's this: https://youtu.be/sHSEmDgXrVI?si=sLAjVC8aNOeKZ5UF&t=460",
+        "author": "ericvn",
+        "created_at": "2024-03-16T21:28:56Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 1302,
+        "comment_body": "ping @ericvn and @istio/wg-test-and-release-maintainers ",
+        "author": "linsun",
+        "created_at": "2024-01-25T15:57:19Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1302,
+        "comment_body": "I would sponsor Daniel for this. ",
+        "author": "ericvn",
+        "created_at": "2024-01-25T16:05:49Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 1302,
+        "comment_body": "Thank you @ericvn for your support and guildance! I'll leave this open for 2 days to see if there are any other objections before sending a PR to add Daniel. ",
+        "author": "linsun",
+        "created_at": "2024-01-25T21:55:52Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "Thanks @rootsongjc for this initiative and proposal!\r\n\r\n@howardjohn @linsun @craigbox @kfaseela @rcernich @justinpettit @ctrath @hzxuzhonghu please take a look for the proposal. ",
+        "author": "irisdingbj",
+        "created_at": "2024-01-05T18:48:54Z",
+        "affiliation": "Intel Corporation"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "Hi @rootsongjc thanks for proposing this. I saw the cost and complexity worry from other steering members which makes sense to me. Is it possible to start with a simple version where we simply alert users to check out a list of things before writing up the post in discuss?",
+        "author": "linsun",
+        "created_at": "2024-01-11T15:55:25Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "I want to adapt and utilize the existing bots. What is available now? I've heard of some bots no longer planned to be maintained.",
+        "author": "rootsongjc",
+        "created_at": "2024-01-12T07:30:41Z",
+        "affiliation": "TalkingData"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "Any further thought Jimmy?  I think that having a model trained on Istio documentation attempting to manually answer some user queries would be a good first step.  You have such a model?",
+        "author": "craigbox",
+        "created_at": "2024-03-12T00:45:31Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "@craigbox I don't have a direct model available for open source yet. But we can train one, and there's also the technology or platform to consider using, and there's the cost involved when we have to integrate the model to call the APIs, and I haven't figured out how to do all that yet.",
+        "author": "rootsongjc",
+        "created_at": "2024-03-12T02:16:46Z",
+        "affiliation": "TalkingData"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "@rootsongjc is there still interest in doing this?  \r\n\r\n@craigbox has provided some feedback for my tool (https://devboard.gitsense.com/istio) and I'm looking to convert all my data into embeddings for future AI features and I would be interested in working with the Istio to gather requirements.  I'm currently capturing comments (up to 30,000 per repository due to GitHub limitations), issues, pull request, commits, etc. so experimenting with different types of embedding models and chunking methods will be trivial.\r\n\r\nMy only concern right now is performance (not my indexing engine but rather the process of generating embeddings). My indexing engine can scale horizontally and you can rent GPUs by the hour, so I'm hoping there will only be a one time initial cost hit and from then on, commodity hardware can be used",
+        "author": "terrchen",
+        "created_at": "2024-04-09T19:38:46Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "What Jimmy is proposing is effectively training a transformer model on the Istio and Envoy documentation, Q&A etc, and then using that to answer _user_ questions in the first instance.\r\n\r\nSome GitHub data might be useful in this, but I think that is more likely to trend towards _developer_ questions/answers.",
+        "author": "craigbox",
+        "created_at": "2024-04-12T02:37:57Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "I'm actually interested in generating embeddings that can support multiple personas (customers, developers, managers, executives, etc.) so what Jimmy is proposing does interest me, but I can see how including more development related data, can increase complexity.  \r\n\r\nI'm not sure what stage things are at, but I am very interested in learning more about your findings and knowing what sources (documents, questions, etc.) you are planning on training on.",
+        "author": "terrchen",
+        "created_at": "2024-04-12T14:24:23Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "@terrchen I haven't started yet. Your tool is very useful for showing the contribution data but do you have any bot to answer questions in the the GIthub issue or discussions?",
+        "author": "rootsongjc",
+        "created_at": "2024-04-15T03:25:28Z",
+        "affiliation": "TalkingData"
+    },
+    {
+        "issue_number": 1291,
+        "comment_body": "@rootsongjc Not yet.  The goal is to get to a point where I can create agents/bots to answer questions and to perform tasks for maintainers, developers, team leads, etc.\r\n\r\nThe conclusion that I've come to is, in order to create a useful automated Q and A system, you'll need an easy way to do the following:\r\n\r\n1) Classify and clean data.\r\n2) Generate Q and A pairs.  \r\n3) Review and iterate on generated Q and A pairs\r\n\r\nThe part that I will be tackling in the near future is creating a system to classify and clean data, which is the most critical, since garbage in = garbage out.  Once you have clean data (with good metadata), generating Q and A pairs should be pretty straight forward as you can use LLMs to generate them. \r\n\r\nIf you have a system or thoughts on how to clean/organize the data, I'd be interested to hear them.  I'm currently planning on creating a system that will leverage LLM to help classify and prep data.\r\n",
+        "author": "terrchen",
+        "created_at": "2024-04-15T15:36:10Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "Thanks @ams0.  We'll discuss this at Steering tomorrow; I have tried to use community.cncf.io to link things that aren't hosted there, and it's not really designed for that.  I'd be open to using it to mirror/link to things but not use it as primary hosting.",
+        "author": "craigbox",
+        "created_at": "2023-12-14T00:05:51Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "Hi folks, \r\n\r\nI am very interested in participating and collaborating in everything related to the Istio community. Please keep me informed of what I can do to help, and I will certainly contribute some ideas as I get deeper into the project. \r\n",
+        "author": "chaltenio",
+        "created_at": "2023-12-17T21:36:22Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "I'm interested, we definitely need this.",
+        "author": "cccsss01",
+        "created_at": "2023-12-18T15:27:28Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "Thank you all for the interest, we have discussed this briefly in steering. @craigbox will take a lead on this effort and steering will try to work with community to arrange community meetings for each month.",
+        "author": "linsun",
+        "created_at": "2023-12-18T15:46:34Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "Hi folks,\n\nYes, it would be great if there were weekly community meetings, such that it would help a lot for newcomers and continuous participants.\n\nI would also want to be part of this amazing community and contributing to it. ",
+        "author": "MiirzaBaig",
+        "created_at": "2024-01-02T03:49:44Z"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "https://github.com/istio/community?tab=readme-ov-file#community-meeting",
+        "author": "kfaseela",
+        "created_at": "2024-01-02T14:35:22Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "@linsun : @srampal has created this \"Istio Office Hours\" proposal, can we formalize this, and make this part of community meetings? People who sign up here, can give the sessions as part of the community meetings every month? https://docs.google.com/document/d/1fRbMPIWidrY_Y1pWO31pQBbtqYc6rIJGn2pijBSV1dE/edit",
+        "author": "kfaseela",
+        "created_at": "2024-01-25T15:21:32Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "Hi @kfaseela given we don't have topic for community meeting in Jan, I'm open to use community mtg for office hours.\r\n\r\nIf we do have enough topics for community meeting, I'd prefer split between user community meeting and developer/contributor community meeting (which is what @srampal is proposing for office hours to my understanding).\r\n\r\ncc @istio/steering-committee to chime in",
+        "author": "linsun",
+        "created_at": "2024-01-25T15:27:49Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "@srampal and @howardjohn thoughts on placing you in the next community meeting?  We can have it as early as next Thursday or the week after next thurs' 1pm.  ",
+        "author": "linsun",
+        "created_at": "2024-01-25T15:31:19Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": " The community meetings are for the community. Office hours are for developers. \r\n\r\nI don't know why we keep making this a big deal. Just stick a meeting on the calendar :-). If we cannot get agreement on how to schedule a meeting, I can just run black market office hours for folks who are interested.",
+        "author": "howardjohn",
+        "created_at": "2024-01-25T17:09:27Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "@howardjohn : so should we have a separate meeting on the Istio calendar for office hours, and run this separately? Ofcourse we can do that, just that we need to formalize and then Sanjeev can drive. ",
+        "author": "kfaseela",
+        "created_at": "2024-01-25T19:44:31Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "I very much do not think we need to formalize this or have anyone drive... we are way over thinking this. If developers are in need of help, why are we putting so many artificial barriers to letting me (and others) get on a video call and help our developers? Just pick a time and lets do it :slightly_smiling_face: ",
+        "author": "howardjohn",
+        "created_at": "2024-01-25T19:47:17Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "> I very much do not think we need to formalize this or have anyone drive... we are way over thinking this. If developers are in need of help, why are we putting so many artificial barriers to letting me (and others) get on a video call and help our developers? Just pick a time and lets do it \ud83d\ude42\r\n\r\nit would be easier to advertise once we have this added to our calendar? Or we have random time slots based on the availability of speakers? That makes it difficult for people to track the event.",
+        "author": "kfaseela",
+        "created_at": "2024-01-25T19:51:41Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "I'd like a set schedule/planned event, availability of whomever independent as there is always the community regardless.",
+        "author": "cccsss01",
+        "created_at": "2024-01-25T19:58:17Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "I agree there is value of getting it scheduled and recorded.  Let us just get the office hour scheduled and stick with the schedule @srampal and @howardjohn \r\n\r\n@cccsss01 are you interested in contributing? If so, you should join Istio WG and ambient meeting, see: https://github.com/istio/community/blob/master/WORKING-GROUPS.md#working-group-meetings",
+        "author": "linsun",
+        "created_at": "2024-01-25T20:11:39Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1272,
+        "comment_body": "> I agree there is value of getting it scheduled and recorded. Let us just\r\nget the office hour scheduled and stick with the schedule @srampal\r\n<https://github.com/srampal> and @howardjohn <https://github.com/howardjohn>\r\n\r\nAgree Lin, thats where we were going anyway. We will start from next week.\r\n\r\nOn Thu, Jan 25, 2024 at 3:12\u202fPM Lin Sun ***@***.***> wrote:\r\n\r\n> I agree there is value of getting it scheduled and recorded. Let us just\r\n> get the office hour scheduled and stick with the schedule @srampal\r\n> <https://github.com/srampal> and @howardjohn\r\n> <https://github.com/howardjohn>\r\n>\r\n> @cccsss01 <https://github.com/cccsss01> are you interested in\r\n> contributing? If so, you should join Istio WG and ambient meeting, see:\r\n> https://github.com/istio/community/blob/master/WORKING-GROUPS.md#working-group-meetings\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/istio/community/issues/1272#issuecomment-1910916253>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/ACBPZUFGVR5WEXRGDW3MZXDYQK4ARAVCNFSM6AAAAABAQCS6NSVHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSMJQHEYTMMRVGM>\r\n> .\r\n> You are receiving this because you were mentioned.Message ID:\r\n> ***@***.***>\r\n>\r\n",
+        "author": "srampal",
+        "created_at": "2024-01-25T20:27:57Z",
+        "affiliation": "Red Hat Inc."
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "cc @istio/steering-committee",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-11-23T03:40:04Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "It's been about a year since https://github.com/istio/community/issues/817 so agreed on running this process again.  @therealmitchconnors, keen to drive?",
+        "author": "craigbox",
+        "created_at": "2023-11-23T04:52:20Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "I can look into this after https://github.com/istio/community/pull/1319 is approved",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:57:45Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "@hzxuzhonghu i like your suggestion, which is also what i had in mind :)\r\n\r\n>  One suggestion is calculating last one year's activity/contibution from CNCF devstats.",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:58:18Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "I was already looking into doing this, Ill send out a PR and we can go from there",
+        "author": "howardjohn",
+        "created_at": "2024-01-30T15:49:59Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "Can we also update https://eng.istio.io/maintainers to show the emeritus maintainers?",
+        "author": "craigbox",
+        "created_at": "2024-01-30T21:47:47Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1262,
+        "comment_body": "Anyone really look at eng.istio.io? I honestly haven't used it for a long time.  ",
+        "author": "linsun",
+        "created_at": "2024-01-30T22:15:12Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1253,
+        "comment_body": "yeah, it is possible. But the delegate's header will take precedence",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-11-10T01:31:37Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1253,
+        "comment_body": "@hzxuzhonghu , could you please provide any sample on setting a request header to a delegare virtual service, I tried giving the request header, but its not showing any request header while checking the network console of browser, \r\n\r\nI need to set a header - test: \"canary\" while dleegating it to the frontend virtualservice.\r\nAprreciate your help\r\n\r\n![image](https://github.com/istio/community/assets/32713188/659b849d-f71c-4170-9fbc-622c2d2bb29a)\r\n\r\n",
+        "author": "sanjaybaburaj",
+        "created_at": "2023-11-10T04:26:02Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1253,
+        "comment_body": "can you show your delegate configuration",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-11-10T10:16:18Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1253,
+        "comment_body": "@hzxuzhonghu \r\n\r\ndelegate virtual service for frontend is as follows\r\n![image](https://github.com/istio/community/assets/32713188/61be9424-4f9d-47ba-a10e-0034c1b6c292)\r\n",
+        "author": "sanjaybaburaj",
+        "created_at": "2023-11-10T11:50:55Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1253,
+        "comment_body": "This repo is for discussion of the governance of the Istio project.  Please take this question to the Istio Slack or discuss.istio.io.",
+        "author": "craigbox",
+        "created_at": "2023-11-12T08:48:03Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "You can refer this file : https://github.com/istio/istio.io/blob/master/data/companies.yml",
+        "author": "kfaseela",
+        "created_at": "2023-10-25T10:21:57Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "Hey @kfaseela thanks for assigning this issue to me..\r\n\r\nThis project feels overwhelming to a contributor like me. Can u help me identify where I need to change?\r\n\r\n\r\n",
+        "author": "tmsagarofficial",
+        "created_at": "2023-10-25T10:22:09Z"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "Hey Thanks for sending before i actually asked. \ud83d\ude05 \r\n\r\n> You can refer this file : https://github.com/istio/istio.io/blob/master/data/companies.yml\r\n\r\n",
+        "author": "tmsagarofficial",
+        "created_at": "2023-10-25T10:22:51Z"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "I cannot see twitter logo there though. Could you please point me to the istio.io page where the logo needs an update, so that I can point you to the right place?",
+        "author": "kfaseela",
+        "created_at": "2023-10-25T10:24:50Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "sure\r\nhttps://istio.io\r\n![image](https://github.com/istio/community/assets/110724849/688d163f-7fcf-49a5-8642-5c92ee8b9ba8)\r\n",
+        "author": "tmsagarofficial",
+        "created_at": "2023-10-25T10:26:49Z"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "Looks like it is picked from here: https://github.com/istio/istio.io/tree/master/src/icons",
+        "author": "kfaseela",
+        "created_at": "2023-10-25T10:53:40Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1240,
+        "comment_body": "Fixed via https://github.com/istio/istio.io/pull/14053",
+        "author": "kfaseela",
+        "created_at": "2023-10-25T13:49:19Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1235,
+        "comment_body": "https://github.com/istio/community/pull/1238",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-10-20T02:42:44Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "Related\r\nhttps://github.com/istio/community/issues/1123\r\nhttps://github.com/istio/istio.io/issues/10865\r\nhttps://github.com/istio/community/issues/885\r\nhttps://github.com/istio/community/issues/1039\r\n\r\n\r\nApparently this is a recurring problem",
+        "author": "erikschul",
+        "created_at": "2023-09-04T16:32:12Z"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "cc @SkyfireFrancisZ ",
+        "author": "kfaseela",
+        "created_at": "2023-09-04T19:19:08Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@kfaseela Seems i can update the link",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-09-05T07:13:53Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "https://github.com/istio/istio.io/pull/13813",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-09-05T07:38:40Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "Each link can only be used for 400 users, and this is a Slack limitation. However,\r\n\r\nhttps://shipyard.build/blog/slack-community-invite-change/\r\n\r\n> But here\u2019s an insider tip: if you reach out to Slack support, they have been known to work with bigger communities to create a link that is good for more sign-ups!",
+        "author": "craigbox",
+        "created_at": "2023-09-05T08:41:23Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@owlzq1 let us know if the problem is fixed for you now.",
+        "author": "kfaseela",
+        "created_at": "2023-09-05T08:51:43Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@kfaseela the link from the official site doesn't work https://istio.io/latest/get-involved/",
+        "author": "owlzq1",
+        "created_at": "2023-09-05T09:45:11Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": " I think the tf job is not run",
+        "author": "hzxuzhonghu",
+        "created_at": "2023-09-05T12:03:55Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@kfaseela \r\nI just tried, and its not working for me.",
+        "author": "davidwhite-nd",
+        "created_at": "2023-09-05T14:18:25Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "I just tried in a private window and see this URL: https://istio.slack.com/join/shared_invite/zt-1z9yjkym8-HTFsoVo4Zom7LOwBXxjc2Q#/shared-invite/error\r\n\r\nThat is indeed the older link. I'm not sure what has to happen after the test-infra link merges. Does merging the new link cause an appropriate update in the service or does it also need restarting?",
+        "author": "ericvn",
+        "created_at": "2023-09-05T14:33:52Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@davidwhite-nd could you please use the updated invite link in the below PR directly for the time being, while we get this fixed properly in the docs? https://github.com/istio/test-infra/pull/4996",
+        "author": "kfaseela",
+        "created_at": "2023-09-05T14:44:18Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@howardjohn will run the required jobs to get this in effect",
+        "author": "kfaseela",
+        "created_at": "2023-09-05T15:10:46Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@kfaseela - that worked! thank you.",
+        "author": "davidwhite-nd",
+        "created_at": "2023-09-05T15:13:51Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1199,
+        "comment_body": "@owlzq1 : It should be fixed now, please check, and you can close the issue if resolved.",
+        "author": "kfaseela",
+        "created_at": "2023-09-05T16:06:40Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1184,
+        "comment_body": "This is an AWS Load balancer issue. Istio is not involved here; I would check with AWS folks",
+        "author": "howardjohn",
+        "created_at": "2023-08-17T20:43:04Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1184,
+        "comment_body": "@howardjohn , thank you for your reply. Is that mean Istio is not validating any `serviceAnnotations` of AWS Load Balancer?",
+        "author": "LYSingD",
+        "created_at": "2023-08-17T20:48:28Z"
+    },
+    {
+        "issue_number": 1184,
+        "comment_body": "serviceAnnotations are just pased directly to `service.metadata.annotations`",
+        "author": "howardjohn",
+        "created_at": "2023-08-17T20:51:49Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1184,
+        "comment_body": "Thank you @howardjohn !",
+        "author": "LYSingD",
+        "created_at": "2023-08-17T21:37:58Z"
+    },
+    {
+        "issue_number": 1174,
+        "comment_body": "There was some discussion of this in steering, currently this doesn't seem to be the right time to add something like this to Istio. There is some possible interest in the future, especially in a scoped context (ambient/gateway API)",
+        "author": "howardjohn",
+        "created_at": "2023-08-28T20:32:19Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1123,
+        "comment_body": "@SkyfireFrancisZ ",
+        "author": "kfaseela",
+        "created_at": "2023-07-11T04:32:32Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1123,
+        "comment_body": "Should be fixed. Thanks",
+        "author": "howardjohn",
+        "created_at": "2023-07-11T17:05:32Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1123,
+        "comment_body": "Added to terraform as well https://github.com/istio/test-infra/pull/4900",
+        "author": "howardjohn",
+        "created_at": "2023-07-11T17:05:43Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1092,
+        "comment_body": "PRs welcome if there is a good way to do this. fwiw I normally use IDE function to do it, but simple script would be nice",
+        "author": "howardjohn",
+        "created_at": "2023-06-20T22:15:09Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 1092,
+        "comment_body": "I would like to try this. Assign me :)",
+        "author": "ronitblenz",
+        "created_at": "2023-06-28T06:34:34Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1092,
+        "comment_body": "Some updates:\r\n\r\nThe script is running fine!\r\n```\r\ngo run sort_names.go\r\nNames sorted successfully!\r\n```\r\nBut the catch is that we cant have two main func in a directory. So, I had to make a subfolder for members to fix this issue. \r\n\r\nNow I have to make changes in the ```config_test.go```.",
+        "author": "ronitblenz",
+        "created_at": "2023-06-30T07:47:38Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1092,
+        "comment_body": "Hey @howardjohn @SAMZONG \r\n\r\nI discovered a Quick Fix for it. I have made a directory called members, where you can add your name randomly. Now the script sorts the YAML and makes a copy of the ```tempname.yaml``` to generate updated ```members.yaml```.\r\n\r\n<img width=\"1440\" alt=\"Screenshot 2023-06-30 at 1 27 53 PM\" src=\"https://github.com/istio/community/assets/91361382/6e901349-cfe1-4f9e-ab51-ce854f212ba7\">\r\n\r\n",
+        "author": "ronitblenz",
+        "created_at": "2023-06-30T08:00:33Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1092,
+        "comment_body": "I don't think we want to have people enter their names in multiple places. This leads to potential issues with changes overriding others or changes being lost. Maybe you have a script to grab the section from the member.yaml, sort it and put it back.\r\n\r\nAnd how are you adding the updated list back into the PR. Are you having the automation create a new commit with the updated list?",
+        "author": "ericvn",
+        "created_at": "2023-07-05T14:01:35Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "@SkyfireFrancisZ who can help with this?\r\n",
+        "author": "kfaseela",
+        "created_at": "2023-04-27T18:17:21Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "acknowledged, looking\r\n",
+        "author": "SkyfireFrancisZ",
+        "created_at": "2023-04-27T18:36:18Z"
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "I just redeployed the cloudrun instance with the new invite URL, please try it and verify.",
+        "author": "SkyfireFrancisZ",
+        "created_at": "2023-04-27T18:51:56Z"
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "@akevdmeer could you please check if your issue is solved now, and close this if things are working as expected?",
+        "author": "kfaseela",
+        "created_at": "2023-04-28T06:50:03Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "Works, thank you!",
+        "author": "akevdmeer",
+        "created_at": "2023-04-28T16:01:29Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "thanks @SkyfireFrancisZ :)",
+        "author": "kfaseela",
+        "created_at": "2023-04-28T16:16:59Z",
+        "affiliation": "Ericsson"
+    },
+    {
+        "issue_number": 1039,
+        "comment_body": "the pleasure is all mine",
+        "author": "SkyfireFrancisZ",
+        "created_at": "2023-04-28T16:18:01Z"
+    },
+    {
+        "issue_number": 976,
+        "comment_body": "I do believe there is code in itio/bots to handle the display of this. I'm just not sure how to set the flag in the database.",
+        "author": "ericvn",
+        "created_at": "2023-02-10T15:34:24Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 976,
+        "comment_body": "Yes, this request has come up in the past.  This would likely require a googler who can dig into the spanner db, tweak the bots repo, and redeploy the code into the bots cluster.  \n\nIn the meantime, we do have a yaml file tracking emeritus maintainers in the community repo.",
+        "author": "therealmitchconnors",
+        "created_at": "2023-02-10T16:13:07Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 976,
+        "comment_body": "(For the record, non-Googlers should now be able to get access to the spanner DB)",
+        "author": "craigbox",
+        "created_at": "2023-07-18T09:06:13Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 930,
+        "comment_body": "Istio OSS community does not provide this, but a variety of partners found in https://istio.io/latest/about/ecosystem/ do.",
+        "author": "howardjohn",
+        "created_at": "2023-01-09T16:31:15Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 898,
+        "comment_body": "https://istio.io/latest/docs/setup/platform-setup/prerequisites/",
+        "author": "howardjohn",
+        "created_at": "2022-11-27T18:40:56Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 898,
+        "comment_body": "Closing this issue. If you feel this is still an issue, you can re-open or create an issue in the istio/istio repository.",
+        "author": "ericvn",
+        "created_at": "2022-12-14T14:54:55Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "@craigbox Would you be able to take care of this. Thanks.",
+        "author": "ericvn",
+        "created_at": "2022-11-17T15:19:46Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "Transferring this to istio/community for fixing.",
+        "author": "ericvn",
+        "created_at": "2022-11-18T16:08:26Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "I never seen the slack invite working. Does it really allow people to join? \r\n\r\nSuch a good technology but it seems everyone is busy in making things in closed walls. I am very new to Istio; but not new to the  kubernets and containerisation. I felt it very hard to interact within Istio community. There are stackoverflow or Istio own forums where more than 70% threads are not answered. This doesn\u2019t reflect good to me; no doubt you have good product but if you fail to build user base then I\u2019m sorry you don\u2019t have great future and people will turn somewhere else. Be serious about the users and their queries as you are developing the technology for next generation.",
+        "author": "sybadm",
+        "created_at": "2022-11-23T21:51:21Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "Can you try it now",
+        "author": "howardjohn",
+        "created_at": "2022-11-23T23:23:54Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "Hi @ksudate and @sybadm: I'm sorry for the delay in getting this fixed.  We're in \"flux\" at the moment as we move from Google infrastructure to CNCF infrastructure.  When I worked at Google I would have fixed this immediately :)\r\n\r\nThe Slack thing we run is a workaround because their software isn't made for communities like this, but it's the software that everyone in the CNCF seems to use. There's no way to issue invites from Slack itself, so we have to generate these tokens which are valid for a few hundred users.  When those are all used up, we have to generate a new URL.\r\n\r\nIt's definitely working now!\r\n\r\nAs for questions and answers on Stack Overflow and Discuss, I do also see there's a lot of questions not being answered. That's a challenge when there are so many vendors.  One thing that we're going to try and do in the Steering committee this term is encourage our community to help answer user questions.   Developers are busy developing and don't tend to pay as much attention as they do early in the life of a project.\r\n\r\n(@howardjohn is excluded from this critique, as not only has he replied on this thread, but also replies to many Slack threads)",
+        "author": "craigbox",
+        "created_at": "2022-11-24T09:11:22Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "Awesome! Thanks for the quick response. This is how it should be. I\u2019m very happy to support the community wherever I can.\r\n\r\ntx",
+        "author": "sybadm",
+        "created_at": "2022-11-24T09:54:25Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 885,
+        "comment_body": "Thanks for the report. This should be working again. If this is still failing, please reopen the issue.",
+        "author": "ericvn",
+        "created_at": "2022-11-30T14:59:16Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 854,
+        "comment_body": "Any progress on this? If not, I can open a CNCF service req.  @craigbox ",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:51:00Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 854,
+        "comment_body": "No progress from me, other to say that I think it would be worthwhile.  \r\n\r\nWe have two calendars, I think, one for [community](https://calendar.google.com/calendar/u/0/embed?src=i10ogf58krfbrsjai5qi16g4do@group.calendar.google.com&ctz=America/Los_Angeles) and one for [working group events](https://calendar.google.com/calendar/u/0/embed?src=c_fe9cd8d091d0d4d2818d01a930dc925f00d4f97995efe50a8d72512b241568f5@group.calendar.google.com&ctz=America/Los_Angeles)?\r\n\r\n(Should we consolidate these?)",
+        "author": "craigbox",
+        "created_at": "2024-03-04T10:33:58Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 854,
+        "comment_body": "I can look into this post kubecon EU",
+        "author": "linsun",
+        "created_at": "2024-03-04T14:19:57Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 838,
+        "comment_body": "Its part of\nhttps://istio.io/latest/docs/reference/config/istio.mesh.v1alpha1/#MeshConfig\n\nOn Fri, Oct 14, 2022 at 5:26 AM That Guy at Github ***@***.***>\nwrote:\n\n> Hi, we have found that the default policy about failing envoy requests is\n> to retry twice after a given timeout period, as its well detailed on the\n> documentation here\n> https://istio.io/latest/docs/concepts/traffic-management/#retries.\n>\n> The default retry behavior for HTTP requests is to retry twice before returning the error.\n>\n> We were trying to disable it globally everywhere because particularly for\n> us, it's introducing some inconsistencies on HTTP POST operations that\n> alter the nature of the object, generating some inconsistency issues.\n>\n> We were unable to find a way to disable HTTP connection retries globally\n> in a way that does not imply creating VirtualService on a per-service\n> basis, which will add a lot of complexity for us.\n>\n> Can you help us confirm that there is no way to instruct Istio not to\n> perform any kind of connection retries at HTTP globally?\n>\n> \u2014\n> Reply to this email directly, view it on GitHub\n> <https://github.com/istio/community/issues/838>, or unsubscribe\n> <https://github.com/notifications/unsubscribe-auth/AAEYGXKNO75JRK4N6TSMEJDWDFGPJANCNFSM6AAAAAARFGFSKY>\n> .\n> You are receiving this because you are subscribed to this thread.Message\n> ID: ***@***.***>\n>\n",
+        "author": "howardjohn",
+        "created_at": "2022-10-14T14:00:53Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 838,
+        "comment_body": "You are totally correct, I've applied it and it's working as expected, thanks a lot!",
+        "author": "thatguyatgithub",
+        "created_at": "2022-10-17T19:01:48Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 817,
+        "comment_body": "A couple of additional comments and @therealmitchconnors can correct if needed.\r\n\r\nhttps://github.com/istio/community/blob/master/ROLES.md?plain=1#L234-L236 is the section of the community docs that discuss this. \r\n\r\nThe `extended period of time` is not defined, but for this issue is 1 yr. Note that the inactive tab on the dashboard is 90 days for maintainers. If you make a contribution, the clock starts over. I think just replying to this issue would be enough. \r\n\r\n",
+        "author": "ericvn",
+        "created_at": "2022-10-03T18:29:58Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 817,
+        "comment_body": "Cisco has just asked me to again become active in the project so please don't remove me ",
+        "author": "john-a-joyce",
+        "created_at": "2022-10-03T18:34:10Z",
+        "affiliation": "Cisco"
+    },
+    {
+        "issue_number": 817,
+        "comment_body": "I would like to stay as an active maintainer, thanks.",
+        "author": "Nino-K",
+        "created_at": "2022-10-03T21:39:55Z"
+    },
+    {
+        "issue_number": 817,
+        "comment_body": "I'm no longer able to take an active role. Thanks for everything guys! Please feel free to move me to emeritus status.",
+        "author": "brian-avery",
+        "created_at": "2022-10-09T22:53:04Z",
+        "affiliation": "Red Hat Inc."
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "https://github.com/cncf/devstats/issues/373",
+        "author": "craigbox",
+        "created_at": "2022-09-30T09:20:37Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "It looks like this is completed.\r\n",
+        "author": "ericvn",
+        "created_at": "2022-10-13T17:39:40Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "nop, devstats do not updated \r\n\r\n![image](https://user-images.githubusercontent.com/4354057/195742244-ad8246b8-a493-4b3d-82ce-5312b4d23efe.png)\r\n",
+        "author": "zirain",
+        "created_at": "2022-10-14T01:38:34Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "Interesting. Originally devstats wasn't there and that is now. I hadn't made any number comparisons.",
+        "author": "ericvn",
+        "created_at": "2022-10-14T13:31:35Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "> Interesting. Originally devstats wasn't there and that is now. I hadn't made any number comparisons.\r\n\r\nAfter double check, devstats data is ok, data updated a little later than tesstats. seems like job is not running at the same time.\r\nwe can close this.",
+        "author": "zirain",
+        "created_at": "2022-10-27T03:16:07Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "Was going to look into changing the icon for Istio to ours. Seems to be a default CNCF one the last I looked.",
+        "author": "ericvn",
+        "created_at": "2022-10-31T13:56:37Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 809,
+        "comment_body": "It's the sailboat now!",
+        "author": "craigbox",
+        "created_at": "2022-12-15T07:16:44Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 805,
+        "comment_body": "Is there anything similar to SIGS we can do? I don't think we want to move\n~anything under the \"istio\" org since that has some implication of support\n\nOn Wed, Sep 28, 2022 at 6:10 PM craigbox ***@***.***> wrote:\n\n> With Istio becoming part of the CNCF, we need to go through\n> istio/ecosystem, and for each repository:\n>\n>    - archive it, if now irrelevant\n>    - confirm it's currently part of the Istio project, or\n>    - move it to its own org, if it doesn't wish to become, or doesn't\n>    qualify to be, part of the Istio project in the CNCF.\n>\n> \u2014\n> Reply to this email directly, view it on GitHub\n> <https://github.com/istio/community/issues/805>, or unsubscribe\n> <https://github.com/notifications/unsubscribe-auth/AAEYGXKIAFLOHSS2ELVUIMLWATUAPANCNFSM6AAAAAAQYJI6A4>\n> .\n> You are receiving this because you are subscribed to this thread.Message\n> ID: ***@***.***>\n>\n",
+        "author": "howardjohn",
+        "created_at": "2022-09-29T14:22:28Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 805,
+        "comment_body": "Yes, istio-ecosystem will remain like the kubernetes-sigs repo, but we have to check the licensing of anything being brought on board, and we have to consider if Admiral wants to have its own identity.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T22:31:41Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 804,
+        "comment_body": "@therealmitchconnors has [submitted a few of these](https://github.com/cncf/artwork/pull/373), but we still need to coordinate horizontal and vertical versions that include the word mark.\r\n\r\n(I've [raised a Service Desk ticket for the CNCF designers to do this](https://cncfservicedesk.atlassian.net/servicedesk/customer/portal/1/CNCFSD-1535): we have the horizontal version already, and they can make a correctly-spaced version of a stacked/vertical lockup.  We should also have them find out why the [version we put into the landscape](https://landscape.cncf.io/?selected=istio) doesn't have the correct color.)",
+        "author": "craigbox",
+        "created_at": "2022-12-15T23:13:27Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 804,
+        "comment_body": "Is this complete?",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:52:05Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 804,
+        "comment_body": "The issue was never replied to by the CNCF.  I'll chase it.",
+        "author": "craigbox",
+        "created_at": "2024-03-04T09:10:02Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 801,
+        "comment_body": "Yes, this is the plan. They can interop. Feel free to ask other questions on the #ambient channel on slack, this area is mostly for bugs. Thanks!",
+        "author": "howardjohn",
+        "created_at": "2022-09-27T13:51:42Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 796,
+        "comment_body": "> warn\tsds\tfailed to warm certificate: failed to generate workload certificate: create certificate: rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing dial tcp: lookup istiod.istio-system.svc on 10.96.0.10:53: read udp 10.244.1.7:37443->10.96.0.10:53: i/o timeout\"\r\n\r\nplease make sure you DNS work well.\r\n",
+        "author": "zirain",
+        "created_at": "2022-09-22T02:42:53Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 796,
+        "comment_body": "BTW, you should open ticket on [github/istio/istio](https://github.com/istio/istio)",
+        "author": "zirain",
+        "created_at": "2022-09-22T02:43:50Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 796,
+        "comment_body": "Ah, thanks. I didnot notice this is in community.\r\nI do not see any errors in my coreDNS and hence was confused as to where it was all going wrong. I ll post this in istio/istio.",
+        "author": "prateeksahu",
+        "created_at": "2022-09-22T14:21:24Z",
+        "affiliation": "Intel Corporation"
+    },
+    {
+        "issue_number": 789,
+        "comment_body": "I am using the feeder extension in the firefox browser, I am getting this issue for a long time.",
+        "author": "vinay01tech",
+        "created_at": "2022-09-05T17:33:10Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 789,
+        "comment_body": "Hi Vinay,\r\n\r\nThey all look to validate according to https://validator.w3.org/feed/.  Can you give any more insight into what happens when you try?  Are there any errors in the Firefox console?",
+        "author": "craigbox",
+        "created_at": "2022-09-07T22:26:35Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 789,
+        "comment_body": "Please feel free to re-open if you find a way to reproduce.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:38:36Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 784,
+        "comment_body": "closing this , since i opened it here https://github.com/istio/istio/issues/40516",
+        "author": "hariyada",
+        "created_at": "2022-08-17T14:25:21Z",
+        "affiliation": "SAP"
+    },
+    {
+        "issue_number": 782,
+        "comment_body": "Hi @hemanthakumar97!\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.  ",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:43:44Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 758,
+        "comment_body": "Done!",
+        "author": "craigbox",
+        "created_at": "2022-07-20T15:52:33Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 748,
+        "comment_body": "@ZPerling from the previous thread, are you just looking for confirmation of John's assessment here:\r\n>This is not possible; we have to chose one. I believe we pick the oldest one.\r\n",
+        "author": "GregHanson",
+        "created_at": "2022-06-16T14:53:23Z"
+    },
+    {
+        "issue_number": 748,
+        "comment_body": "If you still need assistance, please move this to https://discuss.istio.io.  Thanks!",
+        "author": "craigbox",
+        "created_at": "2022-07-20T15:53:00Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 739,
+        "comment_body": "> The Helm charts used in this guide are the same underlying charts used when installing Istio via [Istioctl](https://istio.io/latest/docs/setup/install/istioctl/) or the [Operator](https://istio.io/latest/docs/setup/install/operator/).\r\n\r\nIs no longer accurate is the root cause. The changes are intentional; helm uses a new gateway chart (https://artifacthub.io/packages/helm/istio-official/gateway) which has a number of improvements over the previous one. istioctl still uses the old charts for backwards compatibility",
+        "author": "howardjohn",
+        "created_at": "2022-05-19T20:48:52Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 739,
+        "comment_body": "@howardjohn thanks for response, I just now realized that I should have opened in the istio.io repo.\r\n\r\nShould we continue the discussion here?\r\n\r\nistio/istio#39049",
+        "author": "epomatti",
+        "created_at": "2022-05-19T21:04:03Z",
+        "affiliation": "BAT"
+    },
+    {
+        "issue_number": 725,
+        "comment_body": "do you ack this email `[GitHub] @istio-testing has invited you to join the @istio organization` ?",
+        "author": "zirain",
+        "created_at": "2022-04-21T07:09:38Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 725,
+        "comment_body": "Once ever,  I indeed  got the icon, at the beginning. But then, I changed my github username to another, then I found the org icon fall off. When I realize this, I changed back username to keep the same with once. But the icon fall off till now.",
+        "author": "zackzhangkai",
+        "created_at": "2022-04-21T14:36:53Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 725,
+        "comment_body": "@ericvn PTAL.",
+        "author": "zirain",
+        "created_at": "2022-04-22T00:43:15Z",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "issue_number": 725,
+        "comment_body": "Hello?",
+        "author": "zackzhangkai",
+        "created_at": "2022-04-25T08:47:55Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 725,
+        "comment_body": "As mentioned above, it appears you have a pending invitation to join the Istio community: https://github.com/orgs/istio/people/pending_invitations",
+        "author": "ericvn",
+        "created_at": "2022-04-25T12:29:27Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 725,
+        "comment_body": "Got it! Thanks a lot.",
+        "author": "zackzhangkai",
+        "created_at": "2022-04-26T14:17:39Z",
+        "affiliation": "Independent"
+    },
+    {
+        "issue_number": 722,
+        "comment_body": "Could anyone help on this?",
+        "author": "chengjun0124",
+        "created_at": "2022-04-25T07:11:25Z",
+        "affiliation": "International Business Machines Corporation"
+    },
+    {
+        "issue_number": 722,
+        "comment_body": "@craigbox ",
+        "author": "chengjun0124",
+        "created_at": "2022-04-25T07:11:55Z",
+        "affiliation": "International Business Machines Corporation"
+    },
+    {
+        "issue_number": 722,
+        "comment_body": "Hi @chengjun0124, this repo isn't for support issues.  I suggest you try https://discuss.istio.io, or, if you think it's a bug in Istio, raise an issue in istio/istio.\r\n\r\nThanks and good luck!",
+        "author": "craigbox",
+        "created_at": "2022-04-25T10:18:06Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 722,
+        "comment_body": "Thank you.",
+        "author": "chengjun0124",
+        "created_at": "2022-04-26T07:00:31Z",
+        "affiliation": "International Business Machines Corporation"
+    },
+    {
+        "issue_number": 718,
+        "comment_body": "Hi @xudesheng!\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:44:47Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 710,
+        "comment_body": "I think that is all the metrics prefixed with galley_ and citadel that exist?",
+        "author": "howardjohn",
+        "created_at": "2022-03-21T15:19:51Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 710,
+        "comment_body": "Hi @mohan-nagandlla!\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:45:20Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 704,
+        "comment_body": "@ep4sh can you elaborate on this more?  Which settings in envoy are you looking to configure?  Do you want your end users to be able to configure select fields from Envoy or just have access to configure anything from the docs?",
+        "author": "GregHanson",
+        "created_at": "2022-06-16T15:00:32Z"
+    },
+    {
+        "issue_number": 704,
+        "comment_body": "Hi @GregHanson, thank you for reply, I think I still need to have such capability to configure any Envoy settings from the docs, since I would like to provide such settings as configuration interface and make some test/limits on these settings. \nI hope it was clear, please let me know :)\n\nRegards, \nPasha",
+        "author": "ep4sh",
+        "created_at": "2022-06-22T21:12:29Z",
+        "affiliation": "RXLab"
+    },
+    {
+        "issue_number": 704,
+        "comment_body": "Hi @ep4sh!\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:45:35Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 704,
+        "comment_body": "The method for configuring arbitrary settings in Envoy is EnvoyFilter; I don't believe we plan to expose any other method.  We're instead working on our own APIs like the Telemetry API.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:49:36Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 693,
+        "comment_body": "Thanks for the issue @gauravdewat . Istio/community is for organizational issues, charters, etc - you can use http://github.com/istio/istio for the main product issue tracker. That being said, this is working as intended - CRDs essentially act as a database and removing CRDs is equivilent to doing `rm -rf /` on that database. You can follow https://istio.io/latest/docs/setup/install/operator/#uninstall for a _full_ removal. Cheers",
+        "author": "howardjohn",
+        "created_at": "2022-02-14T16:03:22Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 667,
+        "comment_body": "This is likely an issue with your k8s cluster. I recommend trying:\r\n\r\n```\r\nfunction token-review() {\r\n    kubectl create --raw /apis/authentication.k8s.io/v1/tokenreviews -f - <<EOF\r\n{\"apiVersion\":\"authentication.k8s.io/v1\",\"kind\":\"TokenReview\",\"spec\":{\"audiences\":[\"istio-ca\"],\"token\":\"$(cat < /dev/stdin)\"}}\r\nEOF\r\n}\r\n\r\nfunction token-request() {\r\n  echo '{\"kind\":\"TokenRequest\",\"apiVersion\":\"authentication.k8s.io/v1\",\"spec\":{\"audiences\":[\"istio-ca\"], \"expirationSeconds\":2592000}}' | \\\r\n    kubectl create --raw /api/v1/namespaces/${1:-default}/serviceaccounts/${2:-default}/token -f - | \\\r\n    jq -j '.status.token'\r\n}\r\n\r\ntoken-request | token-review\r\n```",
+        "author": "howardjohn",
+        "created_at": "2021-12-01T16:47:19Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "I understand this is expected, as you declare `my-app.default` as an endpoint, and set the se dns type, iun envoy xds, `my-app.default`  is an dns type cluster, so when the lb algorithm selected it, it will resolve it to the clusterIP of the local cluster where the caller resides. Then the traffic goes through as k8s expects.\r\n\r\n",
+        "author": "hzxuzhonghu",
+        "created_at": "2021-10-25T01:58:02Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "@hzxuzhonghu hmm.. yah. Then how can I reach the service in the other cluster with the same custom host name `my-app.service.consul`? In some examples I always see things like `my-app.global`, I wonder if that is some sort of keyword or I am just missing something (https://istio.io/latest/blog/2020/multi-cluster-mesh-automation/)",
+        "author": "romanlehner",
+        "created_at": "2021-10-25T07:21:44Z",
+        "affiliation": "N26 GmbH"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "What is `<my-aws-lb>.elb.amazonaws.com`? \r\n\r\nI think you can add cluster b service entrance as an endpoint of se",
+        "author": "hzxuzhonghu",
+        "created_at": "2021-10-25T07:39:29Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "that is the `east west gateway` load balancer for multicluster communication. I have it from this example here: https://istio.io/latest/blog/2020/multi-cluster-mesh-automation/.  But when the request hits the load balancer I get this error:\r\n```\r\n[2021-10-22T12:49:16.399Z] \"- - -\" 0 NR filter_chain_not_found - \"-\" 0 0 0 - \"-\" \"-\" \"-\" \"-\" \"-\" - - 100.96.43.64:15443 100.96.36.28:50136 - -\r\n```\r\n\r\nSo I guess there is not enough information for the request to get routed. ",
+        "author": "romanlehner",
+        "created_at": "2021-10-25T07:47:17Z",
+        "affiliation": "N26 GmbH"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "I understand. I guess the `NR` error is because the default gateway requires *.local, you can try change it\r\n\r\n```\r\napiVersion: networking.istio.io/v1alpha3\r\nkind: Gateway\r\nmetadata:\r\n  name: cross-network-gateway\r\nspec:\r\n  selector:\r\n    istio: eastwestgateway\r\n  servers:\r\n    - port:\r\n        number: 15443\r\n        name: tls\r\n        protocol: TLS\r\n      tls:\r\n        mode: AUTO_PASSTHROUGH\r\n      hosts:\r\n        - \"*.local\"\r\n```",
+        "author": "hzxuzhonghu",
+        "created_at": "2021-10-26T03:15:06Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "Ah that's a good hint. Although I already configured it they way you present it. But that makes me wonder if I have to add:\r\n\r\n```yaml\r\n...\r\nhosts:\r\n  - \"*.local\"\r\n  - \"*.service.consul\"\r\n  ```\r\n  \r\n  And then in the other cluster `*.service.consul` has to resolve somehow as well. Maybe with another service entry?",
+        "author": "romanlehner",
+        "created_at": "2021-10-26T07:33:26Z",
+        "affiliation": "N26 GmbH"
+    },
+    {
+        "issue_number": 660,
+        "comment_body": "@hzxuzhonghu thank you for your support so far. I think I will close this issue, as it is not really an issue, but me not understanding how to configure a hostname with service entry that connects across clusters. I will create another topic restating my request.",
+        "author": "romanlehner",
+        "created_at": "2021-10-28T10:16:19Z",
+        "affiliation": "N26 GmbH"
+    },
+    {
+        "issue_number": 639,
+        "comment_body": "Yeah Istio can do this. Take a look at https://istio.io/latest/docs/tasks/observability/metrics/using-istio-dashboard/",
+        "author": "nmnellis",
+        "created_at": "2021-10-11T13:15:05Z",
+        "affiliation": "Summa Financial Technology"
+    },
+    {
+        "issue_number": 607,
+        "comment_body": "Note that, as soon as we get the instance up, Elekto can also handle Exception Requests for voting rights.  But first we have to get it running.",
+        "author": "jberkus",
+        "created_at": "2021-06-29T20:59:08Z",
+        "affiliation": "Red Hat Inc."
+    },
+    {
+        "issue_number": 607,
+        "comment_body": "FYI: Red Hat's OSPO has an instance of Elekto running, should we run into roadblocks in getting an independant one set up.  However, for vendor-neutrality reasons, it would be better to use an instance hosted by someone else.",
+        "author": "jberkus",
+        "created_at": "2021-07-01T18:11:53Z",
+        "affiliation": "Red Hat Inc."
+    },
+    {
+        "issue_number": 588,
+        "comment_body": "Hi @marcioandrada !\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:46:32Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 584,
+        "comment_body": "Take a look at istiod logs, it will indicate why it failed to authenticate",
+        "author": "howardjohn",
+        "created_at": "2021-06-09T14:11:43Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 584,
+        "comment_body": "[root@k8s-master1 ~]# kubectl logs -n istio-system istiod-79dd646bcd-dqsm4 -f\r\n\r\n2021-06-10T01:02:20.943082Z     warn    serverca        Authentication failed for 10.244.159.129:53156: Authenticator ClientCertAuthenticator at index 0 got error: no verified chain is found. Authenticator KubeJWTAuthenticator at index 1 got error: failed to validate the JWT from cluster \"Kubernetes\": the service account authentication returns an error: [invalid bearer token, square/go-jose: error in cryptographic primitive]. \r\n\r\n",
+        "author": "cc20110101",
+        "created_at": "2021-06-10T01:21:44Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 584,
+        "comment_body": "Hi, I am facing the exact same issue.\r\n\r\nistio 1.11.4\r\nk8s 1.20.7\r\n\r\nMy istio proxy sidecars are generating those errors in the original post, and their readiness probe is constantly failing. My istiod logs are also showing the same \"[invalid bearer token, square/go-jose: error in cryptographic primitive]\" errors for pods that have issues.\r\n\r\nI notice that the moment I do a rollout restart of the istiod deployment, the proxy sidecar will recover within seconds, with the readiness passing health check. Checking the sidecar logs will show that it generated new workload certificate, detected the root cert has changed and start rotating the root cert.\r\n\r\nstruggling with this for a couple of days now.\r\n\r\n",
+        "author": "sgLancelot",
+        "created_at": "2022-01-05T06:04:21Z"
+    },
+    {
+        "issue_number": 584,
+        "comment_body": "Hi @howardjohn , we are facing the same issue as above. can you please provide any pointers?",
+        "author": "aswathysdn",
+        "created_at": "2022-01-05T07:03:32Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 584,
+        "comment_body": "It looks like your Kubernetes nodes need their certs regenerated.\r\nhttps://github.com/kubernetes/kubernetes/issues/110035\r\n\r\nI don't think tis is Istio-specific, so I'm closing the issue.  If you have ongoing problems, please check out https://discuss.istio.io/.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:47:57Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 584,
+        "comment_body": "Didn't solve the problem. I won't use isio for the time being",
+        "author": "cc20110101",
+        "created_at": "2023-01-05T04:33:29Z",
+        "affiliation": ""
+    },
+    {
+        "issue_number": 574,
+        "comment_body": "Hi @hmallepally !\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:50:48Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 573,
+        "comment_body": "I'm using openssl 1.1 on OSX btw",
+        "author": "Morriz",
+        "created_at": "2021-05-26T23:01:41Z"
+    },
+    {
+        "issue_number": 573,
+        "comment_body": "if you add one extra param to each of the 3 openssl commands it will pass on modern k8s clusters: `-sha256`",
+        "author": "Morriz",
+        "created_at": "2021-05-26T23:11:11Z"
+    },
+    {
+        "issue_number": 573,
+        "comment_body": "Thanks, I see that parameter is included in the docs now!",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:51:20Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 571,
+        "comment_body": "Hi @Algirdyz \r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.  (I know we're working on new APIs for rate limiting, but until then you can use EnvoyFilter.)",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:51:44Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 563,
+        "comment_body": "Hi @StanislavMakhrov !\r\n\r\nWe don't use this repository for project support. Please feel free to ask your question on our support forum, https://discuss.istio.io/, if it's still an issue.",
+        "author": "craigbox",
+        "created_at": "2022-09-29T00:51:55Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 532,
+        "comment_body": "try using this `curl http://localhost:32263/productpage` when you are on the server `192.168.49.2`. If it shows some HTML things. the service is running. It might be the proxy problem that makes you can not see the page on your computer. ",
+        "author": "Titanssword",
+        "created_at": "2021-05-18T16:09:03Z"
+    },
+    {
+        "issue_number": 532,
+        "comment_body": "Is this still an issue?  If so, please open in the istio/istio repo. Thanks!",
+        "author": "linsun",
+        "created_at": "2022-06-16T15:49:02Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 526,
+        "comment_body": "hello @asc-adean , you should create an issue in https://github.com/istio/istio rather than here.",
+        "author": "kebe7jun",
+        "created_at": "2021-03-03T07:33:29Z",
+        "affiliation": "DaoCloud Network Technology Co. Ltd."
+    },
+    {
+        "issue_number": 526,
+        "comment_body": "tested on latest 1.14.1 and verified the two install methods successfully deploy egress gateway",
+        "author": "GregHanson",
+        "created_at": "2022-06-16T15:23:05Z"
+    },
+    {
+        "issue_number": 526,
+        "comment_body": "Thanks Greg!  @asc-adean can you please retry?  and reopen in istio/istio if you still see this prob.",
+        "author": "linsun",
+        "created_at": "2022-06-16T15:50:34Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 521,
+        "comment_body": "Think this is no longer relevant",
+        "author": "linsun",
+        "created_at": "2022-06-16T15:47:15Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 382,
+        "comment_body": "Added to Steering agenda.  Thanks!",
+        "author": "craigbox",
+        "created_at": "2020-08-24T15:19:14Z",
+        "affiliation": "ARMO"
+    },
+    {
+        "issue_number": 382,
+        "comment_body": "@craigbox not sure what the steering conclusion was, but I think our org just got added to the beta or it went GA - either way, we are technically able to enable it if we choose to.",
+        "author": "howardjohn",
+        "created_at": "2020-12-08T19:07:51Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 382,
+        "comment_body": "Think i have taken care of this?!  feel free to reopen if not.",
+        "author": "linsun",
+        "created_at": "2024-01-30T14:52:29Z",
+        "affiliation": "Solo.io"
+    },
+    {
+        "issue_number": 326,
+        "comment_body": "I think this is to protect community CI infra and prevent malicious attackers from occupying all resources.",
+        "author": "hzxuzhonghu",
+        "created_at": "2020-05-20T03:34:50Z",
+        "affiliation": "Huawei Technologies Co. Ltd"
+    },
+    {
+        "issue_number": 326,
+        "comment_body": "@hzxuzhonghu I think it is more about protecting CI credentials from being leaked. Or at least that used to be the last reason for this. On balance, I don't see the value as this is a roadblock to participation.\r\n\r\nThis is related: https://github.com/istio/community/issues/476\r\n",
+        "author": "sdake",
+        "created_at": "2020-10-26T19:42:46Z",
+        "affiliation": "NetApp Inc"
+    },
+    {
+        "issue_number": 326,
+        "comment_body": "I think we have lots of discussions and decided we can't, closing this.",
+        "author": "linsun",
+        "created_at": "2022-06-16T15:51:57Z",
+        "affiliation": "Solo.io"
+    }
+]

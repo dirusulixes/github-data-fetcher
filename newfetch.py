@@ -75,17 +75,13 @@ def fetch_commit_comments(owner, repo, results_file):
 
 # Fetch issue comments
 def fetch_issue_comments(owner, repo, results_file):
+    all_comments = []
+    if os.path.exists(results_file):
+        with open(results_file, 'r') as f:
+            all_comments = json.load(f)
+
     url = f'https://api.github.com/repos/{owner}/{repo}/issues'
     params = {'state': 'all', 'since': START_DATE, 'until': END_DATE, 'per_page': 100}
-    all_comments = []
-
-    # Load existing results if the file exists
-    if os.path.exists(results_file):
-        try:
-            with open(results_file, 'r') as f:
-                all_comments = json.load(f)
-        except json.JSONDecodeError:
-            print(f"Failed to parse {results_file}. Starting fresh.")
 
     existing_issue_numbers = {comment['issue_number'] for comment in all_comments}
 

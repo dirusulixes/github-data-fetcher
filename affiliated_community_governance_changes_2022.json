@@ -1,0 +1,194 @@
+[
+    {
+        "file": "ADMINS-FOR-ISTIO.md",
+        "commit_sha": "8ce4fb6035677c3f15812141dfde0b50f8a63b96",
+        "commit_message": "Update some things I've handed over upon leaving Google. (#830)\n\n* Update some things I've handed over upon leaving Google.\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>\n\nCo-authored-by: Lin Sun <lin.sun@solo.io>\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>",
+        "author": "craigbox",
+        "timestamp": "2022-12-07T16:29:13Z",
+        "url": "https://github.com/istio/community/commit/8ce4fb6035677c3f15812141dfde0b50f8a63b96",
+        "affiliation": "ARMO"
+    },
+    {
+        "file": "ADMINS-FOR-ISTIO.md",
+        "commit_sha": "5b20144ad11f03e51a4dd57b810454949896aa9e",
+        "commit_message": "Update ADMINS-FOR-ISTIO.md (#608)\n\n* Update ADMINS-FOR-ISTIO.md\n\nMade the most obvious changes and have followed up with folks to make them effective. Suggestions for substitutes for jasonall welcome...\n\n* Update ADMINS-FOR-ISTIO.md\n\n* Update ADMINS-FOR-ISTIO.md\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: Lin Sun <lin.sun@solo.io>\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>\n\n* Update ADMINS-FOR-ISTIO.md\n\n* Update ADMINS-FOR-ISTIO.md\n\nCo-authored-by: craigbox <craigbox@google.com>\nCo-authored-by: Lin Sun <lin.sun@solo.io>\nCo-authored-by: Eric Van Norman <ericvn@us.ibm.com>",
+        "author": "Louis Ryan",
+        "timestamp": "2022-06-06T13:21:28Z",
+        "url": "https://github.com/istio/community/commit/5b20144ad11f03e51a4dd57b810454949896aa9e"
+    },
+    {
+        "file": "CONTRIBUTING.md",
+        "commit_sha": "c7ce7653669779d774cce075ce55304d064b4a60",
+        "commit_message": "Minor doc updates (#792)\n\n* Minor doc updates\n\n* Update WG description",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-09-15T23:55:09Z",
+        "url": "https://github.com/istio/community/commit/c7ce7653669779d774cce075ce55304d064b4a60"
+    },
+    {
+        "file": "RELEASE_MANAGERS.md",
+        "commit_sha": "f8621ec5288c1917da6b325969cd5e520cc858b4",
+        "commit_message": "Update 1.16 RM from Tong Li to Mariam John (#912)",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-12-13T19:17:08Z",
+        "url": "https://github.com/istio/community/commit/f8621ec5288c1917da6b325969cd5e520cc858b4"
+    },
+    {
+        "file": "RELEASE_MANAGERS.md",
+        "commit_sha": "c7ce7653669779d774cce075ce55304d064b4a60",
+        "commit_message": "Minor doc updates (#792)\n\n* Minor doc updates\n\n* Update WG description",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-09-15T23:55:09Z",
+        "url": "https://github.com/istio/community/commit/c7ce7653669779d774cce075ce55304d064b4a60"
+    },
+    {
+        "file": "RELEASE_MANAGERS.md",
+        "commit_sha": "96d371c5e2ff61b0f14270826e765594189644fb",
+        "commit_message": "Update release manqagers (#768)",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-07-20T15:51:43Z",
+        "url": "https://github.com/istio/community/commit/96d371c5e2ff61b0f14270826e765594189644fb"
+    },
+    {
+        "file": "SUPPORT.md",
+        "commit_sha": "4efc833208780c779a910c10fb3561fb67ce709b",
+        "commit_message": "Migrate to using common-files and build tools image for linting (#799)\n\n* Migrate to using build image\n\n* Remove license files\n\n* Fix up CONTRIBUTION\n\n* Update to only ignore out directory at the root",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-10-04T23:27:39Z",
+        "url": "https://github.com/istio/community/commit/4efc833208780c779a910c10fb3561fb67ce709b"
+    },
+    {
+        "file": "TECH-OVERSIGHT-COMMITTEE.md",
+        "commit_sha": "5ccb3cdc6aef753a2a498389adbb10dcf81c3efa",
+        "commit_message": "Update Mitch's affiliation (#865)\n\nnow at Aviatrix.",
+        "author": "craigbox",
+        "timestamp": "2022-11-07T09:57:11Z",
+        "url": "https://github.com/istio/community/commit/5ccb3cdc6aef753a2a498389adbb10dcf81c3efa",
+        "affiliation": "ARMO"
+    },
+    {
+        "file": "TECH-OVERSIGHT-COMMITTEE.md",
+        "commit_sha": "ed46e0832bea79fed7f95490ecf6164ee6660fe6",
+        "commit_message": "Add Mitch Connors to the TOC (#832)",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-10-17T15:58:11Z",
+        "url": "https://github.com/istio/community/commit/ed46e0832bea79fed7f95490ecf6164ee6660fe6"
+    },
+    {
+        "file": "TECH-OVERSIGHT-COMMITTEE.md",
+        "commit_sha": "fd739975275df995c3207268f44ea49d8d0626ab",
+        "commit_message": "remove dot next to my name (#742)",
+        "author": "Lin Sun",
+        "timestamp": "2022-05-25T01:13:40Z",
+        "url": "https://github.com/istio/community/commit/fd739975275df995c3207268f44ea49d8d0626ab"
+    },
+    {
+        "file": "TECH-OVERSIGHT-COMMITTEE.md",
+        "commit_sha": "64c49e9ec9190683e2901ac3bedb1e5dffe9f6ca",
+        "commit_message": "mark Sven as having left TOC (#712)",
+        "author": "craigbox",
+        "timestamp": "2022-04-01T01:20:30Z",
+        "url": "https://github.com/istio/community/commit/64c49e9ec9190683e2901ac3bedb1e5dffe9f6ca",
+        "affiliation": "ARMO"
+    },
+    {
+        "file": "WORKING-GROUP-PROCESSES.md",
+        "commit_sha": "c7ce7653669779d774cce075ce55304d064b4a60",
+        "commit_message": "Minor doc updates (#792)\n\n* Minor doc updates\n\n* Update WG description",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-09-15T23:55:09Z",
+        "url": "https://github.com/istio/community/commit/c7ce7653669779d774cce075ce55304d064b4a60"
+    },
+    {
+        "file": "WORKING-GROUP-PROCESSES.md",
+        "commit_sha": "dd873665a5b439392e2642e14ce681ffb0914e08",
+        "commit_message": "Workgroup edits (#770)\n\n* Workinggroup edits\n\n* Restore doc WG",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-07-20T15:53:37Z",
+        "url": "https://github.com/istio/community/commit/dd873665a5b439392e2642e14ce681ffb0914e08"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "6b0869c9748789c6b696fab4cbf31922a96c4b62",
+        "commit_message": "Update co-lead of Extensions and Telemetry (#911)",
+        "author": "zirain",
+        "timestamp": "2022-12-13T15:12:08Z",
+        "url": "https://github.com/istio/community/commit/6b0869c9748789c6b696fab4cbf31922a96c4b62",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "6e1f1e7138d25578cd7441e7a674e8fbe5d516a5",
+        "commit_message": "Update lead of \"Extensions and Telemetry\" (#883)",
+        "author": "lei-tang",
+        "timestamp": "2022-12-12T19:30:49Z",
+        "url": "https://github.com/istio/community/commit/6e1f1e7138d25578cd7441e7a674e8fbe5d516a5",
+        "affiliation": "Google LLC"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "878efa2b8d6370cada84df91a27d62a6bb5e2cef",
+        "commit_message": "correct company (#893)",
+        "author": "zirain",
+        "timestamp": "2022-11-23T08:08:23Z",
+        "url": "https://github.com/istio/community/commit/878efa2b8d6370cada84df91a27d62a6bb5e2cef",
+        "affiliation": "Tetrate.io"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "9b585ac8d24b6f78e4e02ebade9515c6035dad61",
+        "commit_message": "Doug has moved on (#882)",
+        "author": "craigbox",
+        "timestamp": "2022-11-17T22:38:03Z",
+        "url": "https://github.com/istio/community/commit/9b585ac8d24b6f78e4e02ebade9515c6035dad61",
+        "affiliation": "ARMO"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "de652c2c74f4cd9db0f7714d36d29102e68b0617",
+        "commit_message": "remove timezone in calendar (#820)\n\nso it shows up in user's timezone automatically",
+        "author": "Lin Sun",
+        "timestamp": "2022-10-04T20:56:49Z",
+        "url": "https://github.com/istio/community/commit/de652c2c74f4cd9db0f7714d36d29102e68b0617"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "72d2efe8d6d55023d212e30ee9513eceaf152de3",
+        "commit_message": "Update security group leads and product security leads (#781)",
+        "author": "lei-tang",
+        "timestamp": "2022-08-03T20:26:22Z",
+        "url": "https://github.com/istio/community/commit/72d2efe8d6d55023d212e30ee9513eceaf152de3",
+        "affiliation": "Google LLC"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "dd873665a5b439392e2642e14ce681ffb0914e08",
+        "commit_message": "Workgroup edits (#770)\n\n* Workinggroup edits\n\n* Restore doc WG",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-07-20T15:53:37Z",
+        "url": "https://github.com/istio/community/commit/dd873665a5b439392e2642e14ce681ffb0914e08"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "37ddb81f4e04eacf0125c8154e3fbdebc59a61b4",
+        "commit_message": "Add Greg to product security WG lead (#743)\n\nApproved on 4/11 by TOC",
+        "author": "Lin Sun",
+        "timestamp": "2022-05-30T22:02:57Z",
+        "url": "https://github.com/istio/community/commit/37ddb81f4e04eacf0125c8154e3fbdebc59a61b4"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "6ea676aece70edfe22e1d121f016a095a028e4ea",
+        "commit_message": "Remove mjog as WG lead from E&T (#681)",
+        "author": "Mandar U Jog",
+        "timestamp": "2022-02-15T02:25:52Z",
+        "url": "https://github.com/istio/community/commit/6ea676aece70edfe22e1d121f016a095a028e4ea"
+    },
+    {
+        "file": "WORKING-GROUPS.md",
+        "commit_sha": "eeb2356c0b693b5e681bcab2920ced4c6e5151c9",
+        "commit_message": "Remove Jonh as T&R WG Lead (#679)",
+        "author": "Eric Van Norman",
+        "timestamp": "2022-01-05T18:49:52Z",
+        "url": "https://github.com/istio/community/commit/eeb2356c0b693b5e681bcab2920ced4c6e5151c9"
+    }
+]
